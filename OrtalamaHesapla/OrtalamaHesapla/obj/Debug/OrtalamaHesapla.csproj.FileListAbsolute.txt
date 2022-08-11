@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\bin\Debug\OrtalamaHesapla.exe.config
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\bin\Debug\OrtalamaHesapla.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\bin\Debug\OrtalamaHesapla.pdb
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\obj\Debug\OrtalamaHesapla.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\obj\Debug\OrtalamaHesapla.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\obj\Debug\OrtalamaHesapla.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\OrtalamaHesapla\OrtalamaHesapla\obj\Debug\OrtalamaHesapla.pdb
